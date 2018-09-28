@@ -9,6 +9,7 @@ public class Test {
 		System.out.println(a+b);
 		System.out.println("李谨进二笔。。。");
 		System.out.println("weiyikai   sb");
+		System.out.println("一颗卤蛋没了，晕+_+");
 	}
 
 }
