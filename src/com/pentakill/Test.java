@@ -8,6 +8,7 @@ public class Test {
 		int b=20;
 		System.out.println(a+b);
 		System.out.println("李谨进二笔。。。");
+		System.out.println("weiyikai   sb");
 	}
 
 }
