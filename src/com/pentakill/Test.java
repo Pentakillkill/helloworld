@@ -11,6 +11,7 @@ public class Test {
 		System.out.println("weiyikai   sb");
 		System.out.println("一颗卤蛋没了，晕+_+");
 		System.out.println("魏一凯：你好，请看一下！");
+		System.out.println("牛牛牛");
 	}
 
 }
