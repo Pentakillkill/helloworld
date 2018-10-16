@@ -13,7 +13,6 @@ public class Test {
 		System.out.println("魏一凯：你好，请看一下！");
 		System.out.println("牛牛牛");
 		System.out.println("你好，请看一下！");
-		System.out.println("谨进,飞总，你们好，请看一下！！！");
 	}
 
 }
